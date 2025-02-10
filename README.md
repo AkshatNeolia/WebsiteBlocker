@@ -24,7 +24,7 @@ Ensure you have Python installed. You can download it from [python.org](https://
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/WebsiteBlocker.git
+   git clone https://github.com/AkshatNeolia/WebsiteBlocker.git
    cd WebsiteBlocker
    ```
 2. Run the script:
@@ -38,15 +38,8 @@ Ensure you have Python installed. You can download it from [python.org](https://
 3. Click the **Unblock Websites** button to remove restrictions.
 
 ## Screenshot
-![Website Blocker GUI](Screenshot%202025-02-10%20130440.png)
+![Screenshot 2025-02-10 130440](https://github.com/user-attachments/assets/966067e5-4bdc-4f6f-98c3-8db66373cea8)
 
 ## Important Notes
 - **Admin Privileges Required**: Modifying the host file requires administrator/root access.
 - **Backup Recommended**: Before making changes, consider backing up your host file.
-
-## Contributing
-Feel free to submit issues and pull requests to enhance the project.
-
-## License
-This project is licensed under the MIT License.
-
